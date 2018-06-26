@@ -6,7 +6,7 @@ int main ()
 	std::string pairName;
 	std::string yourAge;
 	std::string pairAge;
-	std::cout << "Hello \n";
+	std::cout << "Haylo \n";
 	std::cout << "What's Your name? \n";
 		std::cin >> yourName;
 	std::cout << "How old are you? \n";
